@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "190388227876",
+    "firebase_url": "https://quiz-maker-b50ff.firebaseio.com",
+    "project_id": "quiz-maker-b50ff",
+    "storage_bucket": "quiz-maker-b50ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190388227876:android:443165d068a2bc5850adb1",
+        "android_client_info": {
+          "package_name": "culam.quiz_maker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190388227876-seckkt962i3888uch96v438e95p3iaa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOMpbzv-ryJTXaxVs7grFMLjiaAutOV-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190388227876-seckkt962i3888uch96v438e95p3iaa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
